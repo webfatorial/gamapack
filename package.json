@@ -1,6 +1,6 @@
 {
   "name": "gamapack",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gamapack",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,5 @@
   "eslintConfig": {
     "extends": "gama"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
